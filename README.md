@@ -2,7 +2,7 @@
 
 This repository contains a static mobile app built using Flutter to design the user interface (UI) of an existing app called Curie. The purpose of this project is to showcase the UI for Curie.
 
-![slide1](https://github.com/singhpratham72/curie/blob/3c5e62e4cc843ec00923327438a62d6ff3ed63a8/curie_ui.gif)
+![slide1](https://github.com/singhpratham72/curie/blob/664e980c29be20220f825ae32f1d990688385c1e/curie_ui.gif)
 
 ## Getting Started
 
