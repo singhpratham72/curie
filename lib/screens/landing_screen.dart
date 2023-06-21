@@ -109,7 +109,7 @@ class _LandingScreenState extends State<LandingScreen> {
                                             const SizedBox(width: 12.0),
                                             Flexible(
                                               child: Text(
-                                                'Linked bank\nacccounts',
+                                                'Linked bank\naccounts',
                                                 overflow: TextOverflow.clip,
                                                 style: TextStyles.buttonText
                                                     .copyWith(
